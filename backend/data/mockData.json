@@ -1,0 +1,32 @@
+{
+  "flights": [
+    { "id": "f1", "airline": "IndiGo", "origin": "Bengaluru", "destination": "Delhi", "price": 4500, "duration": 2.5, "rating": 4.2, "reviews": 1200, "departure": "06:00", "arrival": "08:30", "stops": 0 },
+    { "id": "f2", "airline": "Air India", "origin": "Bengaluru", "destination": "Delhi", "price": 5800, "duration": 2.5, "rating": 4.5, "reviews": 980, "departure": "09:15", "arrival": "11:45", "stops": 0 },
+    { "id": "f3", "airline": "SpiceJet", "origin": "Bengaluru", "destination": "Delhi", "price": 3900, "duration": 3.0, "rating": 3.8, "reviews": 750, "departure": "14:00", "arrival": "17:00", "stops": 1 },
+    { "id": "f4", "airline": "Vistara", "origin": "Bengaluru", "destination": "Delhi", "price": 7200, "duration": 2.5, "rating": 4.7, "reviews": 1500, "departure": "18:30", "arrival": "21:00", "stops": 0 },
+    { "id": "f5", "airline": "IndiGo", "origin": "Bengaluru", "destination": "Mumbai", "price": 3200, "duration": 1.5, "rating": 4.1, "reviews": 900, "departure": "07:00", "arrival": "08:30", "stops": 0 },
+    { "id": "f6", "airline": "Air India", "origin": "Bengaluru", "destination": "Mumbai", "price": 4100, "duration": 1.5, "rating": 4.4, "reviews": 850, "departure": "11:00", "arrival": "12:30", "stops": 0 },
+    { "id": "f7", "airline": "GoFirst", "origin": "Bengaluru", "destination": "Goa", "price": 2800, "duration": 1.0, "rating": 3.9, "reviews": 600, "departure": "08:00", "arrival": "09:00", "stops": 0 },
+    { "id": "f8", "airline": "IndiGo", "origin": "Bengaluru", "destination": "Goa", "price": 2500, "duration": 1.0, "rating": 4.0, "reviews": 700, "departure": "15:00", "arrival": "16:00", "stops": 0 },
+    { "id": "f9", "airline": "Air India", "origin": "Bengaluru", "destination": "Kolkata", "price": 6200, "duration": 3.0, "rating": 4.3, "reviews": 810, "departure": "06:30", "arrival": "09:30", "stops": 0 },
+    { "id": "f10", "airline": "Vistara", "origin": "Bengaluru", "destination": "Jaipur", "price": 5500, "duration": 2.5, "rating": 4.6, "reviews": 1100, "departure": "10:00", "arrival": "12:30", "stops": 0 },
+    { "id": "f11", "airline": "IndiGo", "origin": "Mumbai", "destination": "Dubai", "price": 18000, "duration": 3.0, "rating": 4.4, "reviews": 1300, "departure": "02:00", "arrival": "05:00", "stops": 0 },
+    { "id": "f12", "airline": "Emirates", "origin": "Bengaluru", "destination": "Dubai", "price": 22000, "duration": 4.0, "rating": 4.8, "reviews": 2000, "departure": "23:00", "arrival": "03:00", "stops": 0 }
+  ],
+  "hotels": [
+    { "id": "h1", "name": "The Leela Palace", "city": "Delhi", "pricePerNight": 8500, "rating": 4.7, "reviews": 1400, "amenities": ["Pool", "Spa", "WiFi", "Gym"], "stars": 5 },
+    { "id": "h2", "name": "Ibis Delhi Aerocity", "city": "Delhi", "pricePerNight": 3200, "rating": 4.2, "reviews": 980, "amenities": ["WiFi", "Restaurant", "Bar"], "stars": 3 },
+    { "id": "h3", "name": "OYO Flagship Delhi", "city": "Delhi", "pricePerNight": 1200, "rating": 3.7, "reviews": 540, "amenities": ["WiFi", "AC"], "stars": 2 },
+    { "id": "h4", "name": "Taj Hotel Delhi", "city": "Delhi", "pricePerNight": 12000, "rating": 4.9, "reviews": 2200, "amenities": ["Pool", "Spa", "WiFi", "Gym", "Concierge"], "stars": 5 },
+    { "id": "h5", "name": "Trident Mumbai", "city": "Mumbai", "pricePerNight": 9500, "rating": 4.6, "reviews": 1100, "amenities": ["Pool", "Spa", "WiFi"], "stars": 5 },
+    { "id": "h6", "name": "Ginger Mumbai", "city": "Mumbai", "pricePerNight": 2800, "rating": 4.1, "reviews": 760, "amenities": ["WiFi", "Restaurant"], "stars": 3 },
+    { "id": "h7", "name": "Treebo Trend Mumbai", "city": "Mumbai", "pricePerNight": 1800, "rating": 3.9, "reviews": 450, "amenities": ["WiFi", "AC", "Breakfast"], "stars": 2 },
+    { "id": "h8", "name": "Taj Exotica Goa", "city": "Goa", "pricePerNight": 11000, "rating": 4.8, "reviews": 1900, "amenities": ["Beach", "Pool", "Spa", "WiFi"], "stars": 5 },
+    { "id": "h9", "name": "Zostel Goa", "city": "Goa", "pricePerNight": 800, "rating": 4.3, "reviews": 620, "amenities": ["WiFi", "Common Area", "Bar"], "stars": 1 },
+    { "id": "h10", "name": "Sterling Goa", "city": "Goa", "pricePerNight": 4500, "rating": 4.2, "reviews": 880, "amenities": ["Pool", "WiFi", "Restaurant"], "stars": 4 },
+    { "id": "h11", "name": "Marriott Jaipur", "city": "Jaipur", "pricePerNight": 7800, "rating": 4.6, "reviews": 1050, "amenities": ["Pool", "Spa", "WiFi", "Gym"], "stars": 5 },
+    { "id": "h12", "name": "Hotel Pearl Palace Jaipur", "city": "Jaipur", "pricePerNight": 1500, "rating": 4.4, "reviews": 830, "amenities": ["WiFi", "Rooftop", "Restaurant"], "stars": 3 },
+    { "id": "h13", "name": "Atlantis Dubai", "city": "Dubai", "pricePerNight": 28000, "rating": 4.8, "reviews": 3200, "amenities": ["Waterpark", "Beach", "Pool", "Spa", "WiFi"], "stars": 5 },
+    { "id": "h14", "name": "Rove City Centre Dubai", "city": "Dubai", "pricePerNight": 6500, "rating": 4.3, "reviews": 1100, "amenities": ["Pool", "WiFi", "Gym", "Restaurant"], "stars": 4 }
+  ]
+}
